@@ -1,0 +1,16 @@
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\bin\Debug\net8.0-windows\08 - Médias.exe
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\bin\Debug\net8.0-windows\08 - Médias.deps.json
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\bin\Debug\net8.0-windows\08 - Médias.runtimeconfig.json
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\bin\Debug\net8.0-windows\08 - Médias.dll
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\bin\Debug\net8.0-windows\08 - Médias.pdb
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\_08___Médias.Form1.resources
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\08 - Médias.csproj.GenerateResource.cache
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\08 - Médias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\08 - Médias.AssemblyInfoInputs.cache
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\08 - Médias.AssemblyInfo.cs
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\08 - Médias.csproj.CoreCompileInputs.cache
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\08 - Médias.dll
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\refint\08 - Médias.dll
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\08 - Médias.pdb
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\08 - Médias.genruntimeconfig.cache
+C:\Users\tatsu\source\repos\08 - Médias\08 - Médias\obj\Debug\net8.0-windows\ref\08 - Médias.dll
